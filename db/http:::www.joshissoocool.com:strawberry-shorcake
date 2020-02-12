@@ -1,0 +1,14 @@
+http://www.joshissoocool.com/strawberry-shorcake
+http://www.joshissoocool.com/recipes/strawberry-shorcake
+http://www.joshissoocool.com/recipes/37
+http://www.joshissoocool.com/cookbook/9/recipes/37
+http://www.joshissoocool.com/37
+
+
+get /photos
+get /photos/new
+post /photos
+get /photos/:id
+get /photos/:id/edit
+patch/put / photos/:id
+delete /photos/:id
